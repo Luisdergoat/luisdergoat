@@ -25,7 +25,7 @@ v<div align="center">
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,swift,fastapi,pytorch,linux,bash,git,vscode&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,fastapi,pytorch,linux,bash,git,vscode&perline=12" alt="Tech stack" />
 </p>
 
 ---
