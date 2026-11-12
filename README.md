@@ -61,19 +61,6 @@ v<div align="center">
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luisdergoat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisdergoat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Luisdergoat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
 <div align="center">
 
 **Let's build something together!** Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/luis-uns%C3%B6ld-037b24400). 🚀
